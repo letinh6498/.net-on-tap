@@ -1,0 +1,15 @@
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.dll
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.xml
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csprojAssemblyReference.cache
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Form1.resources
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CopyComplete
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\Tinh\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
